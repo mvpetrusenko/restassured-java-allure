@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "generate-report": "allure generate allure-report --clean"
+  }
+}
